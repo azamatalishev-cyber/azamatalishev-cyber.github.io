@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional on Azamat Alishev	</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Professional on Azamat Alishev	</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/about_general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about_general/</guid>
+      <description>About Me I dive deep into things and try and figure out all of the intricacies behind them. Uncover foundations and understand on a deeper level why certain things are done in a specific way.&#xA;This is mostly going to be a blog about the study of certain movements in my hobbies.&#xA;Some things on the docket that I have for now are:&#xA;Explain fakie manuals and my findings Dive deep into overhooks in Jiu Jitsu from bottom guard Explore climbing methodolgy for creating efficient movement Hobbies Skating | BJJ | Climbing | Exercise</description>
+    </item>
+  </channel>
+</rss>
